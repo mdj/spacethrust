@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Lift off"
+date:   2016-11-08 21:43:44 +0100
+categories: update
+---
+This is the first launch message of SpaceThrust.com!
+![Logo@1x]({{ site.url }}/assets/2016/11/logo@1x.png)
